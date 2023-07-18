@@ -1,0 +1,12 @@
+[cli]
+base_url = "http://127.0.0.1:24817"
+api_root = "/pulp/"
+username = "admin"
+password = "pulp-admin"
+cert = ""
+key = ""
+verify_ssl = true
+format = "json"
+dry_run = false
+timeout = 0
+verbose = 0
